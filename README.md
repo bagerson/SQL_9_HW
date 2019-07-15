@@ -6,7 +6,7 @@ This assignment proved more challenging conceptually than technically.  While th
 Properly mapping the behavior of the foreign/primary keys in a join operation was essential.  Once the relationships were clear, drawing the ERD made querys much more straightforward.  The clear lesson is that for a larger data set with multiple tables, diagramming the relationships _before_ will make the tasks much easier.
 
 ERD Diagram:
-![alt text](https://github.com/git@github.com:bagerson/ERD_Diagram_BG.png "ERD Diagram")
+![alt text](https://github.com/bagerson/SQL_9_HW/blob/master/ERD_Diagram_BG.png "ERD Diagram")
 
 *Note*
 Apologies for the late submission, many thanks to TJ for his patience as I wrestled with this assignment.
